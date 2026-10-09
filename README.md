@@ -67,5 +67,4 @@ Xcode에서는 폴더(`Package.swift`)를 직접 열고 `Cmd+R`로 실행할 수
 
 ## 제작 과정
 
-AI(Claude)와 대화하며 만들고, 빌드 오류를 하나씩 해결했습니다.
-겪은 오류와 해결 과정은 [docs/DEVLOG.md](docs/DEVLOG.md)에 정리했습니다.
+개발 중 겪은 빌드 오류와 해결 과정은 [docs/DEVLOG.md](docs/DEVLOG.md)에 정리했습니다.
